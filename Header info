@@ -1,0 +1,4 @@
+SPF: Fail
+DKIM: Fail
+DMARC: Fail
+Received-IP: Suspicious
